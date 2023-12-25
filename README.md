@@ -14,7 +14,7 @@
   <a href="https://medium.com/@aliihsantas34" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  [Please visit my portfolio website.](https://aliihsantas-2221e.web.app/)
+
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 <h2 align="center">Hi there 👋</h2>
-
+[Please visit my portfolio website.](https://aliihsantas-2221e.web.app/)
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
