@@ -31,9 +31,11 @@
 
 ###
 
-<p align="left">My name is Ali İhsan Taş, and I am a highly motivated Software Developer with a passion for innovation and technology.<br><br>- 🔭 I’m working as RS<br>- 📚 I'm currently learning Blockchain technologies<br>- ⚡ In my free time I work on blockchain technologies</p>
-<a href="[https://www.linkedin.com/in/ali-ihsan-tas/](https://aliihsantas-2221e.web.app/)" target="_blank">Please visit my portfolio website
+<p align="left">My name is Ali İhsan Taş, and I am a highly motivated Software Developer with a passion for innovation and technology.<br><br>- 🔭 I’m working as RS<br>- 📚 I'm currently learning Blockchain technologies<br>- ⚡ In my free time I work on blockchain technologies
+<a href="https://aliihsantas-2221e.web.app/" target="_blank">Please visit my portfolio website
 </a>
+</p>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
