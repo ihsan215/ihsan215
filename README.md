@@ -3,7 +3,6 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-[Please visit my portfolio website.](https://aliihsantas-2221e.web.app/)
 
 ###
 
@@ -33,7 +32,8 @@
 ###
 
 <p align="left">My name is Ali İhsan Taş, and I am a highly motivated Software Developer with a passion for innovation and technology.<br><br>- 🔭 I’m working as RS<br>- 📚 I'm currently learning Blockchain technologies<br>- ⚡ In my free time I work on blockchain technologies</p>
-
+<a href="[https://www.linkedin.com/in/ali-ihsan-tas/](https://aliihsantas-2221e.web.app/)" target="_blank">Please visit my portfolio website
+</a>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
